@@ -1,1 +1,1 @@
-# js-uzduotis
+# Small JS task
